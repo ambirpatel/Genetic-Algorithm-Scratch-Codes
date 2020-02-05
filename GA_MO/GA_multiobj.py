@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 def F1(x):
-    return (x*x*x)
+    return (x*x*x/2)
     
 def F2(x):
     return (x-2)**2
