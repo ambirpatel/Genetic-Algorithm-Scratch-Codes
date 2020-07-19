@@ -1,4 +1,4 @@
-# Genetic Algorithm scratch code for 
+# Genetic Algorithm scratch cods for-
 1. Multiobjective function
 2. Constrained optimization
 3. Feature selection
