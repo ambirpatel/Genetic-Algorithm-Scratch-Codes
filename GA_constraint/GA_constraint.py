@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 
 def f(x, y):
+    # optimization function
     return((1 - x)**2) + (100 * ((y - x**2)**2))
 
 def c(x, y):#Inequality Contraints 
